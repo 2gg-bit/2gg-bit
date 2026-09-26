@@ -37,7 +37,7 @@
 
 正在积极参与开源，近期已向 **[Agno](https://github.com/agno-agi/agno)** 提交问题报告和修复 PR。关注问题能否被清楚复现、修复是否有测试支撑，以及改动能否帮助实际使用者。
 
-[查看我的 Pull Requests](https://github.com/pulls?q=is%3Apr+author%3A2gg-bit+-user%3A2gg-bit) · [查看我的 Issues](https://github.com/issues?q=is%3Aissue+author%3A2gg-bit+-user%3A2gg-bit)
+[查看我的 Pull Requests](https://github.com/search?q=is%3Apr+author%3A2gg-bit+-user%3A2gg-bit&type=pullrequests) · [查看我的 Issues](https://github.com/search?q=is%3Aissue+author%3A2gg-bit+-user%3A2gg-bit&type=issues)
 
 ---
 
